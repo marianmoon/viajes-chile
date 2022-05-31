@@ -9,3 +9,9 @@ body{
 .card {
     border: none;
 }
+
+.nav-black{
+    background-color: black;
+    opacity: 0.9;
+    color: #fff;
+}
