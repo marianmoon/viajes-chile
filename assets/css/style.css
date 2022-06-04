@@ -20,3 +20,9 @@ body{
     display: flex;
     justify-content: stretch;
 }
+
+.iconos-footer li{
+    list-style: none;
+    display: inline-block;
+    padding-right: 1em;
+}
