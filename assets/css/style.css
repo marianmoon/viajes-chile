@@ -10,10 +10,15 @@ body{
     border: none;
 }
 
+.navbar{
+    padding: 0 50px;
+}
+
 .nav-black{
     background-color: black;
     opacity: 0.9;
     color: #fff;
+    padding: 0 50px;
 }
 
 .cards-container{
@@ -25,4 +30,12 @@ body{
     list-style: none;
     display: inline-block;
     padding-right: 1em;
+}
+
+.iconos-footer a{
+    color:#fff;
+}
+
+.iconos-footer a:hover{
+    color:#f6f6f6;
 }
